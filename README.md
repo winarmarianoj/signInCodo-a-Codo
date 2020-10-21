@@ -1,5 +1,3 @@
-# signInCodo-a-Codo
-
 # Sign In de Codo a Codo 2020
 
 ## Formulario para comprobar: TP Módulo 3 de Javascript 
